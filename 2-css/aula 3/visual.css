@@ -1,0 +1,9 @@
+body{background-image:url(foto.jpg);
+background-repeat:no-repeat;
+background-position:50% 50%;
+background-size:cover;
+background-attachment:fixed ;}
+
+.fotinha{width:200px;}
+
+p {color:#2f00ff;}
